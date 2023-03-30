@@ -1,2 +1,8 @@
 # test-repo
-lap git tech-master
+thực hành lap tech-master
+
+1. Git
+
+2. Docker 
+
+3 ...
